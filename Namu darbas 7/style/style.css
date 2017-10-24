@@ -1,0 +1,67 @@
+body {
+    background-color: white;
+    margin: auto;
+    font-family: 'Cinzel', serif;
+}
+
+.title h1 {
+    text-align: center;
+    font-size: 110px;
+    color: darkseagreen;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.title h2 {
+    text-align: center;
+    font-size: 100px;
+    color: forestgreen;
+}
+
+.title .upper-title {
+    position: relative;
+}
+
+.title .upper-title .bottom-title {
+    position: absolute;
+    margin-top: -43px;
+    margin-left: 45.2%;
+}
+
+.title .last-article {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.last-article li {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 40px;
+}
+.last-article img{
+    width: 80px;
+}
+
+.last-article .box {
+    border-bottom: 2px solid black;
+    width: 75px;
+}
+.list li{
+    margin-top: 15px;
+    display: inline-block;
+    margin-left: 5%;
+}
+.bar{
+    height: 2px;
+    width: 90%;
+    background-color: black;
+    margin-top: 180px;
+    margin-left: 5%;
+}
+.filler{
+    height: 4px;
+    width: 5%;
+    background-color: darkseagreen;
+    
+    
+}

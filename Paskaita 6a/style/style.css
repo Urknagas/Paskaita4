@@ -1,0 +1,31 @@
+.container{
+    border:1px solid black;
+    background-color: orange;
+    width:90%;
+    margin: auto;
+}
+.left, .right, .box{
+    width:100px;
+    height:100px;
+    background-color: darkred;
+    color: #fff;
+    text-align: center;
+}
+/* naudojam float savybe*/
+/* judinam elementus i kaire ir i des*/
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.box{
+    float: right;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}

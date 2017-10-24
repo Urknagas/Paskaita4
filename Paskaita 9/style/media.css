@@ -1,0 +1,8 @@
+@media (max-width:900px){
+    body{
+        background-color: darkseagreen;
+    }
+    p{
+        width: 90%;
+    }
+}

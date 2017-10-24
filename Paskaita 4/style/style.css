@@ -1,0 +1,89 @@
+.article {
+    background-color: darkgreen;
+    border: 1px solid black;
+    width: 80%;
+    margin: auto;
+    padding: 40px 20px 20px 50px;
+    margin-bottom: 50px;
+}
+
+/*su klase article p vienas pagauna tik ta p kuris yra article klaseje, jei butu tiesiog p tai pagautu visus p elementus*/
+
+.article h1 {
+    color: darkgoldenrod;
+    font-size: 45px;
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    margin: auto 1%;
+}
+
+.article p {
+    color: burlywood;
+    font-size: 20px;
+    display: inline-block;
+    width: 30%;
+    margin: auto 1%;
+}
+
+.article h3 {
+    color: brown;
+    font-size: 24px;
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    margin: auto 1%;
+}
+
+.galary {
+    background-color: cadetblue;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.galary .wrapper {
+    margin-top: 30px;
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    vertical-align: top;
+    
+}
+
+.galary img {
+    width: 25%;
+
+}
+
+.galary h3 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 22px;
+}
+
+.rest .left-side {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.rest img {
+    width: 50%;
+    display: inline-block;
+    
+}
+
+.rest h2 {
+    vertical-align: top;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+

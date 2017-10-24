@@ -1,0 +1,129 @@
+body {
+    background-color: darkgrey;
+}
+
+.article {
+    font-family: 'Audiowide', cursive;
+    background-color: #030303;
+    height: 120%;
+    background-size: cover;
+    border-top: 20px solid black;
+    text-align: left;
+    padding: 0 10% 0 10%;
+}
+.article .kazkas {
+    margin-top: 30px;
+    display: inline-block;
+    width: 590px;
+    margin: auto;
+    text-align: left;
+}
+
+.article h1 {
+    margin-left: 15%;
+    color: #FE2E2E;
+    font-size: 45px;
+    margin-bottom: 110px;
+    
+}
+span {
+    color: #FE2E2E;
+    margin-left: 10px;
+    
+    
+}
+
+.article p {
+    font-size: 16px;
+    width: 37%;
+    margin-left: 15%;
+    text-align: left;
+    color: darkgrey;
+    width: 80%;
+}
+
+.wtf2 img {
+    margin-left: 90px;
+    margin-bottom: -30px;
+}
+
+.wtf img {
+    margin-left: 230px;
+    
+}
+
+.antraspar {
+    font-family: 'Audiowide', cursive;
+    background-color: #151515;
+    border-top: 20px solid #151515;
+    border-bottom: 20px solid #151515;
+}
+
+.antraspar h2 {
+    text-align: center;
+    font-size: 32px;
+    color: #FE2E2E;
+}
+
+.antraspar p {
+    color: darkgrey;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+.final .pirmas {
+    margin: auto;
+    margin-top: 30px;
+    display: inline-block;
+    width: 500px;
+}
+
+.final {
+    font-family: 'Audiowide', cursive;
+    background-color: darkgrey;
+    text-align: center;
+}
+.final h1{
+    color: #151515;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a {
+    font-weight: 600;
+}
+a:visited{
+    color:white;
+}
+
+.fly-in-text {
+    list-style: none;
+    position:absolute;
+    left:205px;
+}
+.fly-in-text li{
+    display: inline-block;
+    opacity: 1;
+    transition: all 2.5s ease;
+    margin-right: 50px;
+}
+.fly-in-text.hidden li{
+    opacity: 0;
+}
+.fly-in-text.hidden li:nth-child(1) {transform: translateX(-200px) translateY(-200px);}
+.fly-in-text.hidden li:nth-child(2) {transform: translateX(-50px) translateY(-100px);}
+.fly-in-text.hidden li:nth-child(3) {transform: translateX(-80px) translateY(-150px);}
+.fly-in-text.hidden li:nth-child(4) {transform: translateX(-40px) translateY(-110px);}
+.fly-in-text.hidden li:nth-child(5) {transform: translateX(-80px) translateY(-70px);}
+.fly-in-text.hidden li:nth-child(6) {transform: translateX(-150px) translateY(-50px);}
+.fly-in-text.hidden li:nth-child(7) {transform: translateX(-100px) translateY(-180px);}
+.fly-in-text.hidden li:nth-child(8) {transform: translateX(-160px) translateY(-80px);}

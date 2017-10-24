@@ -1,0 +1,23 @@
+h1{
+    text-align: right;
+    width: 70%;
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 40px;
+}
+p{
+    margin-left: 10%;
+    width: 60%;
+    background-color: chartreuse;
+    color: floralwhite;
+    border: 1px solid black;
+    padding: 30px;
+    box-sizing: border-box;
+    font-size: 20px;
+    line-height: 24px;
+    
+}
+span{
+    color: black;
+    font-weight: 600;
+}

@@ -1,0 +1,122 @@
+body{
+    margin: auto;
+        font-family: 'Miltonian Tattoo', cursive;
+}
+.container{
+    width: 80%;
+    margin-left: 10%;
+    height: 100px;
+    vertical-align: top;
+    margin-top: 20px;
+    
+}
+.left-side{
+    width: 48%;
+    display: inline-block;
+    margin-right: 3%;
+    position: relative;
+}
+.right-side{
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+}
+.container .left-side img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.container .right-side .image{
+    width: 40%;
+    display: inline-block;
+    
+    
+    
+}
+.container .right-side .text{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    height: 100%;
+    
+    
+}
+.container .right-side .image img{
+    width: 83%;
+    margin-left: 7%;
+    margin-bottom: 15px;
+    
+}
+h4{
+    font-size: 40px;
+    margin-bottom: 10px;
+    color: seagreen;
+}
+p2{
+    font-size: 20px;
+    color: #424242;
+    
+}
+h5{
+    font-size: 23px;
+    margin-bottom: 10px;
+    color: seagreen;
+    
+}
+
+h1{
+    font-size: 43px;
+    color: goldenrod;
+    margin-bottom: 30px;
+    font-weight: 500;
+    
+}
+
+p3{
+    margin-left: 10px;
+    font-size: 20px;
+    color: #424242;
+}
+p4{
+    margin-left: 10px;
+    font-size: 20px;
+    color: #424242;
+}
+p{
+    font-size: 23px;
+    color: #424242;
+}
+.left-side .text-line .left-text{
+    display: inline-block;
+}
+.left-side .text-line .right-text{
+    display: inline-block;
+    margin-left: 10%
+}
+
+.left-side .text-line .text-line-img img{
+    width: 80px;
+}
+.left-side .text-line .left-text .text-line-img{
+   display: inline-block; 
+    vertical-align:top;
+}
+.left-side .text-line .left-text .text-line-text{
+    display: inline-block;
+}
+span{
+    color: orchid;
+    background-color: #F2F2F2;
+    border-radius: 8px;
+}
+span2{
+    color: mediumseagreen;
+    background-color: #F2F2F2;
+    border-radius: 8px;
+}
+span3{
+    color: orange;
+    background-color: #F2F2F2;
+    border-radius: 8px;
+}
+
+

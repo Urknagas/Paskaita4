@@ -1,0 +1,112 @@
+body{
+   font-family: 'Peralta', cursive; 
+}    
+
+
+.title{
+    margin-top: 10px;
+    margin-left: 10%;
+    color:
+}
+h1{
+    font-size: 130px;
+    
+}
+h2{
+    font-size: 70px;
+    color: darkslategray
+}
+.title2{
+    margin-top: 20px;
+    margin-left: 10%;
+    width: 750px;
+}
+p{
+    margin-top: 20px;
+    font-size: 20px;
+    
+}
+p.big{
+    line-height: 40px;
+}
+.slidebarbox{
+    position: relative;
+}
+
+.slidebars{
+    margin-left: 10%;
+    
+}
+.slidebars .bar{
+    height: 10px;
+    width: 70%;
+    background-color: gray;
+    margin-top: 100px;
+    
+}
+.slidebars .filler{
+    height: 10px;
+    width: 65%;
+    background-color: darkslategray;
+    
+}
+.slidebars2 .bar{
+    height: 10px;
+    width: 70%;
+    background-color: grey;
+    margin-top: 100px;
+    
+}
+.slidebars2 .filler{
+    height: 10px;
+    width: 40%;
+    background-color: darkslategray;
+}
+.slidebars3 .bar{
+    height: 10px;
+    width: 70%;
+    background-color: grey;
+    margin-top: 100px;
+    
+}
+.slidebars3 .filler{
+    height: 10px;
+    width: 80%;
+    background-color: darkslategray;
+}
+.proc{
+    position: absolute;
+    top: -30px;
+    left: 50%;
+        font-size: 25px;
+}
+.proc1{
+    position: absolute;
+    top: 80px;
+    left: 34%;
+        font-size: 25px;
+}
+.proc2{
+    position: absolute;
+    top: 190px;
+    left: 59.5%;
+        font-size: 25px;
+}
+
+.text{
+    position: absolute;
+    font-size: 30px;
+    top: -32px;
+}
+.text1{
+    position: absolute;
+    font-size: 30px;
+    top: 80px;
+}
+.text2{
+    position: absolute;
+    font-size: 30px;
+    top: 190px;
+}
+
+

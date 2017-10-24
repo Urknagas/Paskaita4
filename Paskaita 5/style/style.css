@@ -1,0 +1,106 @@
+/*@font-face{
+    font-family:"mano";
+    src:url ('failasnuoroda');
+    }
+/*    isorinio fonto iterpimas*/
+
+body {
+    background-color: #feca1a;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+}
+
+
+.container {
+    width: 90%;
+    margin: auto;
+    max-width: 900px;
+    /*    max-width apriboja ploti, kad neplestu elemento*/
+    /*    margin auto centruoja*/
+}
+
+.wrapper {
+    width: 30%;
+    display: inline-block;
+    margin: auto 1%;
+    vertical-align: top;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+    /*    overflow hidden nukerpa viska kas islenda is elemento*/
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    
+
+}
+
+.text-top {
+    margin-bottom: 20px;
+    color: #444;
+    border-bottom: 1px solid #444;
+    margin: auto;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    width: 94%;
+
+}
+
+h3 {
+    text-transform: uppercase;
+    background-color: black;
+    color: #feca1a;
+    font-size: 24px;
+    line-height: 70px;
+}
+
+li {
+    line-height: 55px;
+    font-size: 16px;
+    color: #777;
+    border-bottom: 1px solid #444;
+    width: 80%;
+    margin: auto;
+}
+
+li span {
+    font-weight: 600;
+}
+
+.price {
+    font-size: 24px;
+}
+
+.wrapper button {
+
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    color: #feca1a;
+    border: none;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+
+}
+
+.text-bottom{
+    line-height: 50px;
+    font-size:16px;
+    color: #444; 
+}
+.contact{
+    border: 1px solid black;
+    font-size: 20px;
+    color: black;
+    padding: 10px 30px;
+    background-color: transparent;
+}
+
+.fa-shopping-cart {
+    color: #feca1a;
+}
